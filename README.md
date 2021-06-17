@@ -1,2 +1,2 @@
 # rest-api
-tugas web service membuat web server
+Latihan membuat REST SERVER
